@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/dev-desk.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with different developers and laptops";
 
 /**
  * Project list
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "My UI/UX Design workflow",
+    description: "A blog of my thoughts on UI/UX Design and my current workflow",
+    url: "https://birimumaaso-rogers-portfolio.super.site/my-uiux-design-workflow",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ICT4MRPQ Hackathon: Masters Students Portal",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed to the design process of the New Masters Students Portal system to be developed for Makerere University.",
+    url: "https://www.figma.com/file/Z3HRbXmuUMpno9lCzsjIo6/Masters-App?type=design&node-id=0%3A1&mode=design&t=u7a9aBkM6m7MkrLu-1",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "My Resume",
+    description: "Includes my experience and abilities.",
+    url: "https://drive.google.com/file/d/1HXo9JxXmDxPIEWCYTd781PBeOpYXz9FL/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "MiKashBoks KPI Dashboard Design",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Built a KPI Dashboard for the NGOs associated with Mikashboks,which is a digital social finance platform that makes saving and lending in groups easier and safer.",
+    url: "https://www.figma.com/file/ShXxuobvdZocbkxfspslgq/Copy-of-Mikashboks_Wireframes(27-03-2022)?type=design&node-id=0%3A1&mode=design&t=OHmg911pF5b7VLI0-1",
   },
 ];
 
